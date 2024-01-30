@@ -56,7 +56,7 @@
 ## Assessment:
 - homework: 0%
 - mid-term exam: 中文班 50% / 全英班 0%
-- final exam: 中文班 50% / 全英班 0%
+- final exam: 中文班 50% / 全英班 100%
 
 ## Suggested Textbooks:
 1. Jearl Walker, David Halliday, Robert Resnick, Principles of Physics 11th or 12th Edition.
