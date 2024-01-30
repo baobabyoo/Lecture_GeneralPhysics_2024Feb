@@ -61,6 +61,4 @@
 ## Suggested Textbooks:
 1. Jearl Walker, David Halliday, Robert Resnick, Principles of Physics 11th or 12th Edition.
 
-## 口試規定:
-#May 29(週一)前在[此google sheet](https://docs.google.com/spreadsheets/d/17LFu69oEB8hDhwkjClZLKMAx3sge13zY6Nxwctc1dL8/edit#gid=0)中時段1~16右側填入自己的姓名學號，每個時段最多填5個人，先填先贏。記得自己的時段。在開始前到我辦公室外，先到先入內口試，其餘在外等候。未填google sheet 或是在填的時段未到皆視同放棄口試，分數以0分計算；有呼吸道症狀或covid快篩陽者例外(詳述於最後)。每個時段為30分鐘，每位同學口試時間為5分鐘，時段與時段間隔10分鐘。時段結束即不再開放入內口試，以免影響到下一時段同學口試之權利。為了自己的權利，切勿晚到。口試時出示學生證核對身份。
-#    辦公室環境密閉通風不良。期末考週，為免所有同學受傳染病影響其他科目學習情形或考試成績，未戴口罩不得進入我辦公室參加口試。有呼吸道症狀者另約時間於六月一日(四)線上完成口試。隱瞞病情現場口試或裝病線上口試而被察覺或被舉發著，分數打五折。
+## 口試規定: TBA
