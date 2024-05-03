@@ -29,6 +29,14 @@
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 22, Problems 5, 10, 16, 45, 46, 58, 59
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 23, Problems 1, 3, 4, 10, 11, 12, 13, 16, 27, 28, 36, 59
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 24, Problems 4, 31, 42, 59, 61
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 28, Problems 5, 12, 16, 26, 40, 54
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 29, Problems 2, 4, 13, 25, 34, 38, 57
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 30, Problems 12, 29
+
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 25, Problems 1, 3, 4, 5, 27, 33, 38
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 26, Problems 3, 4
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 27, Problems 1, 7, 8, 11, 12
+
 
 ## Syllabus:
 1. (February 21) 狹義相對論 special relativity [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part1.pdf)
