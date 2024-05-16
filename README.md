@@ -7,7 +7,7 @@
 <img src="./images/Lecture_GeneralPhysics_2024Feb_QR.png" alt="QRcode" width="200px"/>
 
 ### TA
-- TBA
+- 林郁珊
 
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
