@@ -37,9 +37,9 @@
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 26, Problems 3, 4
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 27, Problems 1, 7, 8, 11, 12
 
-- Halliday & Resnick's Principles of Physics (11th ed.), chapter 31:
-- Halliday & Resnick's Principles of Physics (11th ed.), chapter 32:
-- Halliday & Resnick's Principles of Physics (11th ed.), chapter 33:
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 31: 2
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 32: 1, 8, 9, 12, 18, 22, 26, 35
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 33: 6, 7, 9, 11, 21, 40, 58
 
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 34, Problems 8, 52
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 35, Problems 1, 3, 16, 21, 50
